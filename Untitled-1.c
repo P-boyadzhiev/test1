@@ -6,7 +6,7 @@ int n;
     do
     {
 
-        printf("Hello normal World!");
+        printf("Hello Normal World!");
 
     }
     while(n<100);
