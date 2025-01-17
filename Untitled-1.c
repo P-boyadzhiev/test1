@@ -5,9 +5,7 @@ int n;
     n = 10;
     do
     {
-
-        printf("Hello conflict World!");
-
+      intf("Hello World!");
     }
     while(n<100);
 }
