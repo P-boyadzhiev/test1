@@ -6,7 +6,7 @@ int n;
     do
     {
 
-        printf("Hello conflict merge World!");
+        printf("Hello World!");
 
     }
     while(n<100);
